@@ -8,6 +8,13 @@ export default {
     light: '明亮模式'
   },
   title: 'PDF 合并工具',
+  description: '免费在线PDF文件合并工具，无需安装任何软件。所有处理都在浏览器本地完成，确保文件安全和隐私。',
+  features: {
+    free: '永久免费',
+    privacy: '隐私优先',
+    dragDrop: '拖拽上传',
+    fast: '快速处理'
+  },
   upload: {
     dropzone: '点击选择或拖拽文件到这里',
     supportText: '支持多个PDF文件，单个文件大小不超过50MB',

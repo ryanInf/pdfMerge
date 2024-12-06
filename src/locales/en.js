@@ -8,6 +8,13 @@ export default {
     light: 'Light Mode'
   },
   title: 'PDF Merge Tool',
+  description: 'A free online tool to merge multiple PDF files into one. No installation required, all processing done locally in your browser for maximum privacy and security.',
+  features: {
+    free: 'Always Free',
+    privacy: 'Privacy First',
+    dragDrop: 'Drag & Drop',
+    fast: 'Lightning Fast'
+  },
   upload: {
     dropzone: 'Click or drag files here to upload',
     supportText: 'Support multiple PDF files, max 50MB per file',
